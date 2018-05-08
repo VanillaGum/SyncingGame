@@ -1,0 +1,6 @@
+04-06-2016 21:42:45: Starting TEdit 3.6.16071.2036 
+04-06-2016 21:42:45: OS: Microsoft Windows NT 6.2.9200.0 
+04-06-2016 21:42:45: Terraria Data Path: C:\Program Files (x86)\Steam\steamapps\common\Terraria\Content 
+04-06-2016 21:42:46: Creating Undo cache: C:\Users\monkeyfren\AppData\Roaming\TEdit\undo_350135631 
+04-06-2016 21:43:41: Removing undo cache: C:\Users\monkeyfren\AppData\Roaming\TEdit\undo_760082097 
+04-06-2016 21:43:45: Removing undo cache: C:\Users\monkeyfren\AppData\Roaming\TEdit\undo_350135631 

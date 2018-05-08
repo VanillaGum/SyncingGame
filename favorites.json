@@ -1,0 +1,17 @@
+{
+  "World": {
+    "World_2.wld": false,
+    "World_3.wld": false,
+    "World_5.wld": false,
+    "Bronze_5_Plox.wld": false,
+    "Bronzies.wld": false,
+    "123.wld": false,
+    "124.wld": false,
+    "Vanillas.wld": false,
+    "TiltedPeople.wld": false,
+    "ChestWorld.wld": true
+  },
+  "Player": {
+    "A-Tree.plr": true
+  }
+}
