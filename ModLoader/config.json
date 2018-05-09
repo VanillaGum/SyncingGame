@@ -11,7 +11,7 @@
   "VolumeAmbient": 0.75,
   "VolumeMusic": 0.0,
   "UseExperimentalFeatures": false,
-  "Fullscreen": false,
+  "Fullscreen": true,
   "WindowMaximized": false,
   "WindowBorderless": true,
   "DisplayWidth": 1920,
