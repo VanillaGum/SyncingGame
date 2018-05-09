@@ -62,7 +62,7 @@
   "DownloadModsFromServers": true,
   "OnlyDownloadSignedModsFromServers": false,
   "DontRemindModBrowserUpdateReload": false,
-  "DontRemindModBrowserDownloadEnable": false,
+  "DontRemindModBrowserDownloadEnable": true,
   "MusicStreamMode": 0,
   "AlwaysLogExceptions": false,
   "CloudSavingDefault": false,
